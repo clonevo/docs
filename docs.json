@@ -4,8 +4,8 @@
   "name": "Clonevo Help Center",
   "colors": {
     "primary": "#CBFB45",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#CBFB45",
+    "dark": "#1A1A1A"
   },
   "favicon": "/favicon.svg",
   "navigation": {
